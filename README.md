@@ -25,7 +25,7 @@ The **Customer Support Chatbot with Sentiment Detection** is designed to enhance
 - **Response Adjustment**: Based on the sentiment detected, the chatbot provides a tailored response. For negative sentiments, it might offer an apology or inquire further about the user’s concerns. For positive sentiments, it might express satisfaction or offer further assistance.
 
 ### Examples:
-- **User Input**: "I feel angry"
+- **User Input**: "I feel angry from the service"
   - **Response**: "I'm sorry you're feeling frustrated. What’s making you angry?"
 
 - **User Input**: "I’m happy with the service"
